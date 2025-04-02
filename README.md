@@ -1,21 +1,19 @@
 # Hey there! 👋
 
-I'm just an average dev who loves dreaming about launching a huge startup someday. Until then, I'm busy writing code, sipping endless cups of tea ☕, and getting lost in video games 🎮.
+I'm just an average dev who *thinks* about launching a huge startup someday. But for now, I mostly write code, drink absurd amounts of tea ☕, and pretend I'm being productive while playing video games 🎮.
 
-### 💡 What I Do:
-- Build cool things with code 💻
-- Experiment with new tech 🚀
-- Think about *the next big idea* 🏗️
-- Optimize everything I touch ⚡
+### 💡 What I Do (or at least try to):
+- Build half-cooked apps that may or may not work 💻
+- Experiment with new tech and then wonder why it broke 🚀
+- Only dreaming about *the next big idea* (execution? What’s that?) 🏗️
+- Break everything I touch ⚡
 
-### 🎯 Interests:
-- **Software Development**: Full-stack, mobile apps, and a bit of everything
-- **Gaming**: A perfect mix of relaxation and inspiration
-- **Tea**: The ultimate fuel for coding sessions
+### 🎯 Interests (Other than procrastination):
+- **Software Development**: Full-stack, mobile apps, and whatever ChatGPT or DeepSeek recommends
+- **Gaming**: Because debugging isn't frustrating enough
+- **Tea**: The only reason my code compiles
 
-### 📫 Let's Connect:
-- GitHub: [Your GitHub Profile](#)
-- Twitter: [Your Twitter Handle](#)
-- Website: [Your Website (if any)](#)
+### 📫 Let's Connect (Or just stalk me online):
+- Website: [mohsinkamalakbar.netlify.app](#)
 
-Always happy to chat, collab, or just geek out over tech & games! 🚀
+Always happy to chat, collab, or just rant about broken code and gaming rage quits! 🚀
